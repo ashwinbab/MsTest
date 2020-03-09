@@ -1,0 +1,21 @@
+﻿{
+	"Inputs": {
+		"Operation": [
+			{
+				"input1": "10",
+				"input2": "5",
+				"output": "2"
+			},
+			{
+				"input1": "6",
+				"input2": "3",
+				"output": "2"
+			},
+			{
+				"input1": "6",
+				"input2": "3",
+				"output": "2"
+			}
+		]
+	}
+}
