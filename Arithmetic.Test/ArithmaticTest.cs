@@ -53,7 +53,6 @@ namespace Arithmetic.Test
             int input1 = Int32.Parse(TestContext.DataRow["input1"].ToString());
             int input2 = Int32.Parse(TestContext.DataRow["input2"].ToString());
             var output = Int32.Parse(TestContext.DataRow["output"].ToString());
-            int expected = 2;
             var actual = ArithmeticOperationDemo.Arithmetic.Divide(input1, input2);
             Assert.AreEqual(output, actual);
 
