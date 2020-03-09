@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Inputs>
+<Operation>
+  <input1>10</input1>
+  <input2>5</input2>
+  <output>2</output>
+ </Operation>
+
+<Operation>
+  <input1>6</input1>
+  <input2>3</input2>
+  <output>2</output>
+</Operation>
+
+  <Operation>
+    <input1>6</input1>
+    <input2>3</input2>
+    <output>2</output>
+  </Operation>
+
+
+
+</Inputs>
